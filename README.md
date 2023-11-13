@@ -9,3 +9,7 @@ npm install -D nodemon
 <!-- Install Express, Body Parser, Cookie Parser, Compression, and CORS -->
 npm install express body-parser cookie-parser compression cors
 npm install -D @types/express @types/body-parser @types/cookie-parser @types/compression @types/cors
+<!-- Set up MongoDB -->
+npm install mongodb
+connect > drivers > create a constant and change <password> to alvaro 
+npm install mongoose

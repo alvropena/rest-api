@@ -22,3 +22,6 @@ const server = http.createServer(app);
 server.listen(8080, () => {
   console.log("Server running on http://localhost:8080/");
 });
+
+const MONGO_URL =
+  "mongodb+srv://alvaro:alvaro@cluster0.852zr6t.mongodb.net/?retryWrites=true&w=majority";
