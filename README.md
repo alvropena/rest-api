@@ -16,3 +16,5 @@ npm install mongoose
 npm i -D @types/mongoose
 <!-- Setting up our schema: db/users.ts -->
 select means every time we use one of our controllers to fetch our users we want to avoid fetch the authentication user by accident
+
+<!-- Setting up db/users.ts -->
