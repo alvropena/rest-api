@@ -13,3 +13,4 @@ npm install -D @types/express @types/body-parser @types/cookie-parser @types/com
 npm install mongodb
 connect > drivers > create a constant and change <password> to alvaro 
 npm install mongoose
+npm i -D @types/mongoose
