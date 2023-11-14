@@ -20,3 +20,6 @@ select means every time we use one of our controllers to fetch our users we want
 <!-- Setting up db/users.ts -->
 
 <!-- The cookie is my session token -->
+
+npm install lodash
+npm i -D @types/lodash
